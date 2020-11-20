@@ -1,0 +1,41 @@
+# About this site / server
+
+## Software
+
+The site is a gemini site, proxied over to HTTP(S) using :
+
+=> https://git.sr.ht/~sircmpwn/gmnisrv	gmnisrv
+=> https://git.sr.ht/~sircmpwn/kineto	kineto
+=> https://apache.org/	Apache
+
+(I could have gone with nginx, but I totally don't get their config files #lol)
+
+## Server
+
+The content is hosted on a DreamCompute Instance in a big data centre somewhere in the cloud.
+
+## Other things
+DNS is hosted by Hurricane Electric (HE) and is IPv6 compatable.
+=> https://dns.he.net	HE.net Free DNS Hosting
+
+Mail is self-hosted using Mailcow and SpamHero.
+=> https://mailcow.email/	Mailcow
+=> https://www.spamhero.com/	SpamHero
+
+### Domains
+### .ax
+.ax is the Internet country code top-level domain (ccTLD) of the Åland Islands, Finland, introduced in 2006. Previously, most Åland websites were under the .aland.fi subdomain.
+
+## .ci
+.ci is the Internet country code top-level domain (ccTLD) for Côte d'Ivoire.
+
+## .do
+.do is the country code top-level domain (ccTLD) for the Dominican Republic.
+
+## .is
+.is (dot is) is the top-level domain for Iceland. The country code is derived from the first two letters of Ísland, which is the Icelandic word for Iceland.
+
+### .rs
+.rs is the Internet country code top-level domain (ccTLD) for Serbia and Kosovo.  The domain name registry that operates it is the Serbian National Internet Domain Registry (RNIDS). The letters rs stand for Republika Srbija/Република Србија (Republic of Serbia).
+
+=> /	Home

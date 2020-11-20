@@ -1,0 +1,44 @@
+# YES!
+
+```
+_____.___.___________ _________ ._.
+\__  |   |\_   _____//   _____/ | |
+ /   |   | |    __)_ \_____  \  | |
+ \____   | |        \/        \  \|
+ / ______|/_______  /_______  /  __
+ \/               \/        \/   \/
+                            by mmn
+
+```
+
+## More about YES!
+
+=> about.gmi	Obligatory About Page(TM)
+=> contact.gmi	Contact YES!
+
+## Things YES! Do
+
+=> gemini://bbs.ec/	The BBS
+=> gemini://cd.ax/	CDAX
+=> gopher.gmi	Gopher.is
+=> thepalace.gmi	The Palace Chat
+
+## The Life and Times
+
+=> blog/	The Blog
+
+## Generic Information
+
+YES! is where its at for anything about the things MMN runs, maybe one day we'll put this site back on mmn.on.ca.  But until then it's here at YES.ci.
+
+=> info/server.gmi	About this server
+
+YES! doesn't track you in Gemini space or on the WWW, but if you're visiting via the web there is a stats tracker but it only returns data on site usage not users.
+=> https://www.goatcounter.com/gdpr	GoatCounter's GDPR page
+
+### Gemini
+
+If you don't know much about Gemini, you probably should.
+=> gemini://gemini.circumlunar.space/	Project Gemini
+
+Made with disdain à Paris </3

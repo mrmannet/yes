@@ -1,0 +1,18 @@
+# The Palace
+
+I run a newly rebooted Palace server along side the BBS, it's not much to see right now, not going to lie.
+
+To connect to The Palace server, use thepalace.jw.rs port 9998.
+
+If you're interested in running a Palace server on your own, you can find the downloads at ftp.ec.je or via the BBS in File Area 3 - General utilities.
+
+Please read the file description for the info you need to get setup :)
+
+## Contact
+
+* Email : operator@jw.rs
+* DeltaChat : kc@cd.ax
+* Mastodon : @mmn@mastodon.sdf.org
+* Birdsite : @mmn
+
+=> /	Home

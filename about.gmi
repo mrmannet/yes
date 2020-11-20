@@ -1,0 +1,37 @@
+# About YES ! by mmn
+
+MMN started way back when in 1996 in a basement on Brunswick Avenue in Toronto, sharing a phone line and running on some version of some BBS software long forgotten in the mist of time.
+
+The BBS itself ran on that hardware and software until about 2002 when it went off line for a bit as I travelled over to the UK. In 2007(ish maybe earlier) I bought a copy of Wildcat! v6 from Santronics and ran it off my cable connection on a bulky blade server.
+
+Around 2010 or so that blade server’s power supply went pop and I had to order a new set of machines, two recycled machines from Student Computers got delivered and the BBS moved after a little downtime.
+
+When I moved to France the board was sent into the cloud, having a life using various VPSes in France and Google Cloud in Montréal.
+
+When my google credit ran out and I received my two original PCs from Bristol in my tiny Parisien flat, I moved the board back here. It’s now on a frankenserver built from both the machines in Bristol as various things in each failed, so one had to improvise.
+
+## Keeping the board online
+
+This is mainly a hobby and to be fair since I’ve done it for so long I’d feel a bit bad about not doing it. God knows I’ve had my domain mmn.on.ca for so long that I couldn’t let that lapse either. Kind of digital hoarding.
+
+But it does mean that it’s taken me a very long time to get around to housekeeping on the BBS, the menus are still Wildcat! out of the box and I’m not going to lie, this has been a very long « I must change this » situation.
+
+## About the Webmaster
+
+There are things I’m forced to write about online and it transpires I am just one of those many things.
+
+As always I barely know where to start, so I guess I’ll start at the beginning. I was born in Toronto and continued to go to school there (as one generally does). I started to build my own interest in computers through my poorly funded state provided education, where the school board could only afford Commodores and Apple ][‘s. I spent a lot of time playing, working and pissing about with them.
+
+To the point where, when the school was going to bin them I got first grabs at having my own C64 (hey they offered!). I eventually managed to upgrade to a machine with Windows in 1994/1995 and an Apple Classic. During these days I started to find out about BBSes and that darn fangled internet.
+
+I downloaded my own board software and it started from there, MMN was born in 1996.
+
+Years passed on and I continued to work on this project ever since. During my life, I decided to move countries back in 2002 to Bristol (UK). I stayed there until 2013 when I lived my dream and moved to Paris.
+
+I’ve been here ever since and I’m probably never going to leave. Because you know, Paris.
+
+I’m not only passionate about classic computing, but ironically enough learning/speaking French (I think I can thank my québécoise grade 6 teacher for that) and cycling. I enjoy techno/hardcore music and was pretty much the only person in school who was in to Dance before it became the mainstream pop shit we all know and want to burn.
+
+Since 2000 I’ve also been ranting continuously blogging on LiveJournal.
+
+=> /	Home
